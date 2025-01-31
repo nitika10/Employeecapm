@@ -1,0 +1,11 @@
+<mvc:View controllerName="com.emp.employeef.controller.App"
+    displayBlock="true"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m" xmlns:f="sap.f">
+    <App id="app">
+    <f:FlexibleColumnLayout
+			id="idEmployee"
+			layout="TwoColumnsMidExpanded"
+		/>
+    </App>
+</mvc:View>
