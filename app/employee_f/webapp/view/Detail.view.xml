@@ -80,21 +80,7 @@
 									editable="{editModel>/edit}"
 								/>
 							</ui:template>
-						</ui:Column>
-						<!-- <ui:Column width="8rem">
-							<Label text="Gender"/>
-							<ui:template>
-								<ComboBox
-									id="genderId"
-									editable="{{employee>EmpGender}}"
-									value="{employee>EmpGender}"
-								>
-									<c:Item text="Male"/>
-									<c:Item text="Female"/>
-									<c:Item text="Other"/>
-								</ComboBox>
-							</ui:template>
-						</ui:Column> -->
+						</ui:Column>						
 						<ui:Column width="8rem">
 							<Label text="Mobile No"/>
 							<ui:template>
